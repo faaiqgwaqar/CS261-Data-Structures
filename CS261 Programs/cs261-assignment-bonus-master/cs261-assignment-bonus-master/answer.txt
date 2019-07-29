@@ -1,0 +1,3 @@
+7	These are not put in order, but p will do that 
+55	I am Showing an Implementation in Answer.txt 
+44	This is proof that I can print into the file 
